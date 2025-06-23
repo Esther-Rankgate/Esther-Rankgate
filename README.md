@@ -2,7 +2,7 @@
 Hi, i'm Esther, an undergraduate student studying physics and medical physics. Gaining ongoing proficiency in Python coding for data analysis and problem solving in a variety of physics disciplines. Currently working on Machine Learning in Python. View my repositories for academic coding projects completed during the course of the degree.
 
 # Projects 
-- Transvalvular Pressure Graph
+- Potential Habitable Exoplanets 
 - 
 
 # Tech Skills:
