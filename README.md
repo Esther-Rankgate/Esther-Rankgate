@@ -1,5 +1,5 @@
 # About Me:
-Hi, i'm Esther, an undergraduate student studying physics and medical physics. Gaining ongoing proficiency in Python coding for data analysis and problem solving in a variety of physics disciplines. View my repositories for academic coding projects completed during the course of the degree.
+Hi, I'm Esther — an undergraduate student studying Physics and Medical Physics, with a growing proficiency in Python programming for data analysis, simulation, and problem-solving across a range of physics disciplines. I'm actively developing skills in scientific computing and using Python to explore real-world problems in areas like mechanics, health, and medical imaging. Feel free to browse my repositories for academic coding projects completed during my degree — including coursework, research tasks, and personal learning exercises.
 
 # Projects 
 - Potentially Habitable Exoplanets 
